@@ -7,4 +7,5 @@ except:
 if(new_val == -1):
 	print("You Entered Incorrect String, Try agian!")
 else:
+	print("You entered :")
 	print(new_val)
