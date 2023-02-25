@@ -7,6 +7,7 @@ When the program completes, sort and print the resulting words in python
 sort() order as shown in the desired output. 
 '''
 fname = input("Enter file name: ")
+fname = "romeo.txt"
 read = open(fname)
 new = list()
 out=[]
