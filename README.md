@@ -7,4 +7,4 @@ It includes:
  Course 4: Using Databases with Python
  Course 5: Capstone:Retreiving,Processing and Visualizing Data with Python
 This course has duration of 5 Months
- 
+It was taken by Prof.Charles Severence
