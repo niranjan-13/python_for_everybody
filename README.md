@@ -6,4 +6,5 @@ It includes:
  Course 3: Using Python to Access web data
  Course 4: Using Databases with Python
  Course 5: Capstone:Retreiving,Processing and Visualizing Data with Python
+This course has duration of 5 Months
  
