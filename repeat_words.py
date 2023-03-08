@@ -9,12 +9,12 @@ with open(name) as fhand:
 	for i in mydict.keys():
 		print(i,mydict[i])
 print("The Most repeated word is:")
-maxWord = None
+maxWord = 0
 maxTimes = 0
 for i,j in mydict.items():
 	if j>maxTimes:
 		maxTimes = j
 		maxWord = i
 	
-print("Most repeated word is :",maxWord)
 print("It is repeated ",maxTimes,"times")
+print("Most repeated word is :",maxWord)
